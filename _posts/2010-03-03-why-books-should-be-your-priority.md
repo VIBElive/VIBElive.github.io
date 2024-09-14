@@ -5,7 +5,7 @@ title: Week 1
 subtitle: Meeting with Your Tutor in Person.
 description: After completing the first meeting with the supervisor, I introduced myself to the group and completed a preliminary plan for my topic.
 image: https://res.cloudinary.com/doulyd3hk/image/upload/v1726303520/ma8ikmf1hqcygxsw6rrh.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+optimized_image: https://res.cloudinary.com/doulyd3hk/image/upload/v1726303520/ma8ikmf1hqcygxsw6rrh.jpg
 category: life
 tags:
   - books
