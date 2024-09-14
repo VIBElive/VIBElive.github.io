@@ -2,7 +2,7 @@
 date: 2024-09-14 
 layout: post
 title: Welcome to leviathan-design
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+subtitle: 'A graduation project by a student team from DMU and the UH'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
