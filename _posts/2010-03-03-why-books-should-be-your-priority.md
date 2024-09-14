@@ -6,7 +6,7 @@ subtitle: Meeting with Your Tutor in Person.
 description: After completing the first meeting with the supervisor, I introduced myself to the group and completed a preliminary plan for my topic.
 image: https://res.cloudinary.com/doulyd3hk/image/upload/v1726303520/ma8ikmf1hqcygxsw6rrh.jpg
 optimized_image: https://res.cloudinary.com/doulyd3hk/image/upload/v1726303520/ma8ikmf1hqcygxsw6rrh.jpg
-category: life
+category: life 
 tags:
   - books
   - read
