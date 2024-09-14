@@ -1,6 +1,6 @@
 ---
 date: 2024-9-5 15:26:40
-layout: post
+layout: post 
 title: Week 1
 subtitle: Meeting with Your Tutor in Person.
 description: After completing the first meeting with the supervisor, I introduced myself to the group and completed a preliminary plan for my topic.
