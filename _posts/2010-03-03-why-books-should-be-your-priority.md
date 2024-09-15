@@ -1,7 +1,7 @@
 ---
 date: 2024-9-5 15:26:40
 layout: post 
-title: Introduction
+title: Introduction 
 subtitle: Introduction to the graduation project.
 description: We will give a brief introduction to the design project
 image: https://res.cloudinary.com/doulyd3hk/image/upload/v1726371655/qr9xzbt2jn5erbdougo0.jpg
