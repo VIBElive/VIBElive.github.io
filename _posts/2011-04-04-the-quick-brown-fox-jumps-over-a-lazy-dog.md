@@ -1,5 +1,5 @@
 ---
-date: 2024-9-15 16:26:40
+date: 2024-9-13 16:26:40
 layout: post
 title: week 1
 subtitle: Meeting with Our Tutor in Person
