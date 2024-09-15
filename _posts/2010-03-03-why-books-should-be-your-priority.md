@@ -5,7 +5,7 @@ title: Introduction
 subtitle: Introduction to the graduation project.
 description: We will give a brief introduction to the design project
 image: https://res.cloudinary.com/doulyd3hk/image/upload/v1726371655/qr9xzbt2jn5erbdougo0.jpg
-optimized_image: https://res.cloudinary.com/doulyd3hk/image/upload/v1726303520/ma8ikmf1hqcygxsw6rrh.jpg
+optimized_image: https://res.cloudinary.com/doulyd3hk/image/upload/v1726371655/qr9xzbt2jn5erbdougo0.jpg
 category: life 
 tags:
   - books
