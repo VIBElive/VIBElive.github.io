@@ -1,10 +1,10 @@
 ---
 date: 2024-9-5 15:26:40
 layout: post 
-title: Week 1
-subtitle: Meeting with Your Tutor in Person. 
-description: After completing the first meeting with the supervisor, I introduced myself to the group and completed a preliminary plan for my topic.
-image: https://res.cloudinary.com/doulyd3hk/image/upload/v1726303520/ma8ikmf1hqcygxsw6rrh.jpg
+title: Introduction
+subtitle: Introduction to the graduation project.
+description: We will give a brief introduction to the design project
+image: https://res.cloudinary.com/doulyd3hk/image/upload/v1726371655/qr9xzbt2jn5erbdougo0.jpg
 optimized_image: https://res.cloudinary.com/doulyd3hk/image/upload/v1726303520/ma8ikmf1hqcygxsw6rrh.jpg
 category: life 
 tags:
