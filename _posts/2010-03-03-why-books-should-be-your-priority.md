@@ -1,5 +1,5 @@
 ---
-date: 2024-9-5 15:26:40
+date: 2024-9-10 15:26:40
 layout: post 
 title: Introduction 
 subtitle: Introduction to the graduation project.
