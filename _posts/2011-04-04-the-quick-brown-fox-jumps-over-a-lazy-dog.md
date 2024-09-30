@@ -49,7 +49,7 @@ The automatic stand-cleaning cart represents an intelligent solution with signif
 
 So here's our picture
 
-image: https://res.cloudinary.com/do41bagc1/image/upload/v1727696659/kqcuzcv8eihmrqhjiv3d.jpg
+![placeholder](https://res.cloudinary.com/do41bagc1/image/upload/v1727696659/kqcuzcv8eihmrqhjiv3d.jpg)
 
 
 
