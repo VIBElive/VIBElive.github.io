@@ -1,5 +1,5 @@
 ---
-date: 2024-09-28 12:26:40
+date: 2024-09-25 12:26:40
 layout: post
 title: Project Pitch Slides
 subtitle: We decided on the topic we were going to choose
