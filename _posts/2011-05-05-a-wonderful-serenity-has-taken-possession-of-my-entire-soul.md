@@ -1,5 +1,5 @@
 ---
-date: 2018-07-20 12:26:40
+date: 2024-09-28 12:26:40
 layout: post
 title: Project Pitch Slides
 subtitle: We decided on the topic we were going to choose
@@ -20,10 +20,10 @@ We will show the content through ppt
 
 
 Project name: Automatic bleacher cleaning car
-** Team Name **: Leviathan Design
-** Reporting time **: 2024/9/30
-** Team Members and Tutors **: Qingzhong Xu, Jinli Guo, Hang Zhao, Zhiyu Wu
-** Project Name **: Automatic bleacher cleaning car
+**Team Name**: Leviathan Design
+**Reporting time**: 2024/9/30
+**Team Members and Tutors**: Qingzhong Xu, Jinli Guo, Hang Zhao, Zhiyu Wu
+**Project Name**: Automatic bleacher cleaning car
 
 ---
 
@@ -35,38 +35,38 @@ With the development of society, labor costs rise, the cost of traditional mecha
 ### Constraints and goals
 ## Cost and time constraints
 The development and manufacture of autonomous cleaning vehicles needs to be cost-effective to ensure a reasonable return on investment.
-- The cost should be controlled within about 1500 RMB and the time should be controlled within one year.
+The cost should be controlled within about 1500 RMB and the time should be controlled within one year.
 
 ## Technical requirements
-- ** Autonomous Driving technology **: Advanced sensors, positioning systems and algorithms need to be integrated to achieve autonomous driving.
-- ** Cleaning efficiency **: Meet the cleaning needs of different environments.
-- ** Safety **: Ensure timely identification and avoidance of obstacles during automatic driving.
+**Autonomous Driving technology**: Advanced sensors, positioning systems and algorithms need to be integrated to achieve autonomous driving.
+**Cleaning efficiency**: Meet the cleaning needs of different environments.
+**Safety**: Ensure timely identification and avoidance of obstacles during automatic driving.
 
 ## Applicability
-- Self-cleaning vehicles should be suitable for all environments, especially stadiums.
+Self-cleaning vehicles should be suitable for all environments, especially stadiums.
 
 ## Goals and metrics
-- Improve operational efficiency and reduce manpower requirements through automatic cleaning.
+Improve operational efficiency and reduce manpower requirements through automatic cleaning.
 
 ---
 
 ### Technical project plan overview
 ## Material
-- ** Frame **: Aluminum alloy (light weight, corrosion resistance, stable structure).
-- ** Brush **: Nylon or polypropylene brush (durable, effective cleaning of different surfaces).
-- ** Motor **: DC gear motor (drives wheels and cleans brushes).
-- ** Battery **: Lithium-ion battery (long working time, efficient energy storage).
-- ** Wheels **: Rubber wheels (provides traction and stability on various surfaces).
-- ** Sensors **: Ultrasonic sensors and infrared sensors (for obstacle detection and automatic navigation).
-- ** Control System **: Microcontroller (manages motor control, sensor input and motion).
-- ** Dust collector **: container made of plastic or metal (for garbage collection).
+**Frame**: Aluminum alloy (light weight, corrosion resistance, stable structure).
+**Brush**: Nylon or polypropylene brush (durable, effective cleaning of different surfaces).
+**Motor**: DC gear motor (drives wheels and cleans brushes).
+**Battery**: Lithium-ion battery (long working time, efficient energy storage).
+**Wheels**: Rubber wheels (provides traction and stability on various surfaces).
+**Sensors**: Ultrasonic sensors and infrared sensors (for obstacle detection and automatic navigation).
+**Control System**: Microcontroller (manages motor control, sensor input and motion).
+**Dust collector**: container made of plastic or metal (for garbage collection).
 
 ## Method
-1. ** Develop CAD models ** : Detail the dimensions of the self-cleaning vehicle and the layout of components such as brushes, motors, sensors and dust collection systems.
-2. ** Material selection ** : Select lightweight and durable materials for frames and components, taking into account weight, cost and operational requirements.
-3. ** Procurement ** : Select motors, sensors, batteries and other components that meet design specifications and ensure compatibility.
-4. ** Microcontroller programming ** : For automatic control of movement, sensor input processing and path planning to ensure clean and efficient.
-5. ** Assembly sequence planning ** : including the installation of the frame, the installation of the motor and sensor, the connection of the wire, and the testing of the components respectively.
+1. **Develop CAD models** : Detail the dimensions of the self-cleaning vehicle and the layout of components such as brushes, motors, sensors and dust collection systems.
+2. **Material selection** : Select lightweight and durable materials for frames and components, taking into account weight, cost and operational requirements.
+3. **Procurement** : Select motors, sensors, batteries and other components that meet design specifications and ensure compatibility.
+4. **Microcontroller programming** : For automatic control of movement, sensor input processing and path planning to ensure clean and efficient.
+5. **Assembly sequence planning** : including the installation of the frame, the installation of the motor and sensor, the connection of the wire, and the testing of the components respectively.
 
 ## Manufacturing
 1. Cut and weld aluminum alloy frame according to CAD model.
@@ -82,16 +82,16 @@ The development and manufacture of autonomous cleaning vehicles needs to be cost
 
 ### Verification
 ## Measurement
-- ** Cleaning Efficiency ** : Measure the amount of garbage collected by the vacuum cleaner after a full cleaning cycle. Compare the weight or volume of garbage before and after cleaning to determine cleaning efficiency.
-- ** Battery Performance ** : Measure total running time after full charge to verify battery performance and energy consumption.
-- ** Sensor accuracy ** : Test the accuracy of ultrasonic and infrared sensors by placing various obstacles at different distances. Record the detection rate and any missed or error detection.
-- ** Clean Coverage Area ** : Measure the clean coverage area to ensure that the car is traveling along a predetermined path without significant deviations or uncleaned areas.
+**Cleaning Efficiency** : Measure the amount of garbage collected by the vacuum cleaner after a full cleaning cycle. Compare the weight or volume of garbage before and after cleaning to determine cleaning efficiency.
+**Battery Performance** : Measure total running time after full charge to verify battery performance and energy consumption.
+**Sensor accuracy** : Test the accuracy of ultrasonic and infrared sensors by placing various obstacles at different distances. Record the detection rate and any missed or error detection.
+**Clean Coverage Area** : Measure the clean coverage area to ensure that the car is traveling along a predetermined path without significant deviations or uncleaned areas.
 
 ### Analysis
-- Use overlay diagrams to analyze the navigation path of the shopping cart. Identify overlapping or missing areas and improve path planning algorithms when needed.
+Use overlay diagrams to analyze the navigation path of the shopping cart. Identify overlapping or missing areas and improve path planning algorithms when needed.
 
 ### Verification
-- Deploy automated cleaning vehicles on different types of stands, using different surface materials, garbage types and obstacles. Observe how it performs under real conditions and collect data for further analysis
+Deploy automated cleaning vehicles on different types of stands, using different surface materials, garbage types and obstacles. Observe how it performs under real conditions and collect data for further analysis
 
 ## slides
 
