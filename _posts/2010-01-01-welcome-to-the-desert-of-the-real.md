@@ -1,5 +1,5 @@
 ---
-date: 2024-09-14 
+date: 2024-09-28 
 layout: post
 title: Welcome to leviathan-design
 subtitle: 'A graduation project by a student team from DMU and the UH'
