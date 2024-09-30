@@ -15,67 +15,35 @@ author: mranderson
 
 We had our first meeting with our mentor this week and talked a lot about determining the direction of the design.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> At this point we preliminarily determined that we needed to make a task about automatic cleaning cars
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+**The automatic cleaning car** is mainly used to clean the garbage in the stadium, which is used to reduce the high cost of artificial production.
+## Introduction
+The automatic stand-cleaning cart is an intelligent cleaning device designed for large venues. Its purpose is to reduce manual labor and improve cleaning efficiency, especially in environments like stadiums and theaters with large areas and multiple tiers. This cart features autonomous navigation capabilities, allowing it to avoid obstacles and ensure high-coverage cleaning of the entire stand area.
 
-## Inline HTML elements
+**Key Features**:
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+1. **Autonomous Navigation and Obstacle Avoidance**: Equipped with ultrasonic and infrared sensors, the cart can autonomously detect obstacles and plan the optimal cleaning path to avoid collisions or getting stuck in narrow areas.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+2. **Efficient Cleaning System**: The cart is fitted with rotating brushes and a vacuum system, effectively cleaning dust, litter, food scraps, and various types of debris, which are collected in an onboard dust container for easy disposal.
 
-Most of these elements are styled by browsers with few modifications on our part.
+3. **Lightweight and Durable Structure**: The frame is made of aluminum alloy, which is lightweight and corrosion-resistant, making it suitable for long-term use outdoors and in different weather conditions.
 
-# Heading 1
+4. **Long-lasting Battery Life**: A lithium-ion battery powers the cart, allowing for extended cleaning sessions on a single charge. Additionally, a solar panel provides supplementary power, further extending battery life.
 
-## Heading 2
+5. **Intelligent Control System**: The cart features a microcontroller-based control system, enabling autonomous movement and multiple cleaning modes. Users can also monitor the cart's status in real-time and manually intervene via remote control if necessary.
 
-### Heading 3
+**Applications**:
 
-#### Heading 4
+The automatic stand-cleaning cart is ideal for various venues, stadiums, and open-air theaters that require regular cleaning. It improves cleaning efficiency, saves labor, and addresses potential safety issues associated with traditional manual cleaning, such as steep steps or high-altitude positions.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+**Advantages**:
 
-## Code
+- **Labor Savings**: Compared to traditional manual cleaning methods, the automatic cleaning cart can independently perform tasks, reducing the need for cleaning staff.
+- **Efficient Cleaning**: The optimized path planning and coverage algorithm ensure high cleaning coverage of the area, minimizing missed spots.
+- **High Flexibility**: Thanks to precise sensing capabilities, the cart can adapt to environmental changes. Whether it is navigating through tight spaces between fixed seats or avoiding sudden obstacles, it can adjust accordingly.
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+The automatic stand-cleaning cart represents an intelligent solution with significant potential for reducing cleaning costs and enhancing venue maintenance efficiency.
 
 ## Images
 
